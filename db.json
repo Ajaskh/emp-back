@@ -1,5 +1,23 @@
 {
-    "users":[
-        {"id":1, "name":"admin user","email":"admin@demoapp.com","active":"1","password":"demoapp123"}
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "admin user",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "2",
+      "name": "ajas",
+      "email": "ajaskannattil956@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "3",
+      "name": "abin",
+      "email": "abin@gmail.com",
+      "active": "1"
+    }
+  ]
 }
